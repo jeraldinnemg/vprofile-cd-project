@@ -212,7 +212,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://domainame-accountid.d.codeartifact.regioncode.amazonaws.com/maven/maven-central-store/</url>
+    <url>https://devops-038131145711.d.codeartifact.us-east-1.amazonaws.com/maven/vprofile-maven-repo/</url>
       </repository>
     </repositories>
 </project>
