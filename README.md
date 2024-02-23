@@ -119,13 +119,13 @@ Steps
 - AWS Code Pipeline
 ![Pipeline4](images/aws-code-pipeline4.png)
 - AWS Elastic Beanstalk Service
-![EB](images/eb-environment.png.png)
+![EB](images/eb-environment.png)
 - EB EC2-instances
 ![EB](images/EC2-instances-EB.png)
 - EB Load Balancer
 ![EB](images/load-balancer-aws.png)
 - SSH EB Launched
-![SHH](images/EB-launched.png)
+![SHH](images/elasticbeaninstance.png)
 - SonarCloud
 ![sonarcloud](images/sonarcloudio.png)
 - SonarQualityGate
